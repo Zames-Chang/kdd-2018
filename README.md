@@ -14,6 +14,6 @@
 然後我們使用 ramdom forest 找出 feature importance 高的相關特徵作為以下模型的 input
 ## model
 
-![](https://miro.medium.com/max/1512/1*8f9k9MRmdpCUVvophQKyXw.png)
+![](https://miro.medium.com/max/900/1*evpDWm7Gm0q0_QLwB0QHPw.png)
 
 資料來源:https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263
