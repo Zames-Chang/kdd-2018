@@ -9,7 +9,7 @@
 
 這個問題我給出的解決方法是用幾何合成的方式，去把不同站點的資料擬和成跟觀測有害物質站點的地理位置相同的資料
 
-![](https://i.imgur.com/wmvp4mP.png)
+![](https://i.imgur.com/pypXNd9.png)
 
 然後我們使用 ramdom forest 找出 feature importance 高的相關特徵作為以下模型的 input
 ## model
